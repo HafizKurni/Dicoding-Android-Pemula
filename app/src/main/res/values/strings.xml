@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">MyFavMakanan</string>
+    <string name="my_food">Makanan Kesukaan Ku</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="textview">Nama Makanan</string>
+    <string name="isiDiskripsi">Isi Deskripsi\n</string>
+    <string name="email">email\n</string>
+    <string name="namaAbout">Nama Diri</string>
+    <string name="share">Share</string>
+    <string name="deskripsi_Tambahan">Data Tambahan\n</string>
+
+    <string-array name="data_name">
+        <item>Pempek</item>
+        <item>Laksa</item>
+        <item>Mie Celor</item>
+        <item>Pindang Musi</item>
+        <item>Tekwan</item>
+        <item>Sate Padang</item>
+        <item>Pindang Serani</item>
+        <item>Lakso</item>
+        <item>Sambal Tempoyak</item>
+        <item>Ketan Durian</item>
+        <item>Pempek Kapal Selam</item>
+        <item>Mie Gomak Palembang</item>
+        <item>Gulai Ikan</item>
+        <item>Kapurung</item>
+        <item>Tekwan Bangka</item>
+        <item>Mie Celor Kuah Kuning</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Pempek is a famous Palembang dish made from fish and tapioca starch. It is typically served with a sweet and tangy sauce called "kuah cuko" and garnished with cucumber and shrimp.</item>
+        <item>Laksa Palembang is a flavorful noodle soup made with a coconut milk-based broth, shredded chicken, prawns, and a variety of herbs and spices. It has a rich and spicy flavor.</item>
+        <item>Mie Celor is a Palembang noodle dish served in a creamy coconut milk and shrimp-based broth. It is garnished with prawns, boiled eggs, and fried shallots.</item>
+        <item>Pindang Musi is a sour and spicy fish soup made with tamarind, ginger, and lemongrass. It often includes fish, shrimp, and vegetables.</item>
+        <item>Tekwan is a Palembang soup made with fish and shrimp. It has a clear and savory broth, often served with mushrooms, tofu, and vermicelli noodles.</item>
+        <item>Sate Padang consists of skewered and grilled beef served with a rich and spicy peanut sauce. It\'s a popular street food dish in Palembang.</item>
+        <item>Pindang Serani is a sweet and sour soup made from tamarind and palm sugar. It is usually cooked with fish, shrimp, and vegetables.</item>
+        <item>Lakso is a Palembang dish that features thick rice noodles in a coconut milk-based soup, often served with shredded chicken, prawns, and herbs.</item>
+        <item>Sambal Tempoyak is a spicy condiment made from fermented durian fruit mixed with chilies and other ingredients. It has a unique and bold flavor.</item>
+        <item>Ketan Durian is a dessert made from sticky rice topped with durian fruit and sweet coconut milk. It\'s a favorite among durian enthusiasts.</item>
+        <item>Pempek Kapal Selam is a type of Pempek where a whole boiled egg is encased within the fish and tapioca dough before frying. It\'s often served with a generous drizzle of kuah cuko sauce.</item>
+        <item>Mie Gomak Palembang is a spicy noodle dish known for its bold flavors. It consists of flat rice noodles served in a creamy coconut milk and ground fish broth, with a fiery chili paste.</item>
+        <item>Gulai Ikan Patin is a Palembang-style fish curry made with freshwater patin fish cooked in a rich and aromatic coconut milk sauce, flavored with turmeric and lemongrass.</item>
+        <item>Kapurung is a traditional Palembang salad made with shredded young papaya, grated coconut, and a mixture of aromatic herbs and spices, creating a refreshing and spicy side dish.</item>
+        <item>Tekwan Bangka is a variation of the Palembang Tekwan soup found on the neighboring island of Bangka. It typically features fish and prawn-based broth with ingredients like mushrooms and tofu.</item>
+        <item>Mie Celor Kuah Kuning is a Palembang dish similar to Mie Celor but with a distinct yellow-hued broth, achieved through the use of turmeric, and garnished with prawns and boiled eggs.</item>
+    </string-array>
+    <string-array name="kesukan_desc">
+        <item>Makanan ini, merupakan salah satu makanan yang Hapis suka. Tidak terlepas dari itu ada banyak lagi makanan yang disukai oleh Hapis. Silahkan back untuk melihat semua makanan yang disukai Hapis</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://www.tagar.id/Asset/uploads2019/1575231476828-pempek.jpg</item>
+        <item>https://inionline.id/wp-content/uploads/2019/03/Resep-Laksan-Khas-Palembang-830x623.jpg</item>
+        <item>https://asset.kompas.com/crops/wtl_8hGQGBbkATMhp_om5hpc2-o=/65x86:633x465/750x500/data/photo/2022/02/22/6214ef1a14c7c.jpg</item>
+        <item>https://www.gotravelly.com/assets/img/culinary/gallery/1270/18bcea7436254260990cc424a3b9d5f9.png</item>
+        <item>https://i.pinimg.com/originals/7d/4e/d4/7d4ed43dde013cac0b39218aa1406f44.jpg</item>
+        <item>https://balitraveldiary.com/wp-content/uploads/2020/01/Sate-Padang-Syukur-1024x1024.jpg</item>
+        <item>https://i.pinimg.com/originals/70/ef/d9/70efd9aef8a03f22ce3ca58687861285.jpg</item>
+        <item>https://portal.riau24.com/news/20210326/riau24_1616723299.jpg</item>
+        <item>https://4.bp.blogspot.com/-qmLCgB5xVw0/TxJN064y5OI/AAAAAAAAADo/HkfS74AQYYA/s1600/Sambal+Tempoyak+dengan+Teri.jpg</item>
+        <item>https://img-global.cpcdn.com/recipes/075a72b77cf0685b/1200x630cq70/photo.jpg</item>
+        <item>https://assets.grab.com/wp-content/uploads/sites/9/2020/09/08213009/selam.png</item>
+        <item>https://img-z.okeinfo.net/okz/500/library/images/2021/05/10/a4mv638cyd4j1nx6kjcp_18734.jpg</item>
+        <item>https://i.ytimg.com/vi/PtzdPsEpEuk/maxresdefault.jpg</item>
+        <item>https://www.celebes.co/wp-content/uploads/2020/09/Kapurung.jpg</item>
+        <item>https://3.bp.blogspot.com/-U76u9oy_lIU/WcK1V2gWU2I/AAAAAAAAAaM/9XWRtenJA78AWK6mKFTPx_kNjnjZ_wLIQCPcBGAYYCw/s1600/tekwan-tokomesin.jpg</item>
+        <item>https://3.bp.blogspot.com/-0gBkPdqCuPI/XIuSohmzNeI/AAAAAAAAEfc/eWoG_ejzsAcDTO2DrXCvOoyEexSKyBtAQCLcBGAs/s640/mie-celor.jpg</item>
+    </string-array>
+    <string-array name="data_about">
+        <item>https://avatars.githubusercontent.com/u/87954942?v=4</item>
+        <item>Hafiz Muhammad Kurniawan</item>
+        <item>kurni.hafiz2002@gmail.com</item>
+    </string-array>
+</resources>
